@@ -1,4 +1,4 @@
 package com.example.myapplication;
 
-public class Square {
+public class Model extends Shape{
 }
